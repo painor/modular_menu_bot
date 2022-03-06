@@ -1,0 +1,9 @@
+codernitydb3==0.6.0
+googletrans==4.*
+mishkal==0.4.1
+moviepy==1.0.3
+ocrspace==2.3.0
+pipreqs==0.4.11
+pyshorteners==1.0.1
+Telethon==1.24.0
+watchdog==2.1.6
